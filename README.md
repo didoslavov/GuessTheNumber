@@ -1,6 +1,6 @@
 ![Guess the number](https://github.com/didkoslawow/GuessTheNumber/blob/main/61MG5AeRIaL.png)
 # Guess the number - simple game!
-
+[Try it here](https://replit.com/@DieianSlavov/GuessTheNumber?v=1)
 This is my very first project in JavaScript! This will help me in my path of learning JavaScript!
 
 This is a console game where you need to try to guess the number, choosen by the computer.
