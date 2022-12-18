@@ -1,4 +1,4 @@
-
+![Guess the number](https://github.com/didkoslawow/GuessTheNumber/blob/main/61MG5AeRIaL.png)
 # Guess the number - simple game!
 
 This is my very first project in JavaScript! This will help me in my path of learning JavaScript!
