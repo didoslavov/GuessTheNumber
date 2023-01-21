@@ -9,7 +9,7 @@ let computersNumber = Math.floor(Math.random() * 100);
 let guessedNumber = 0;
 
 function promtReadLine() {
-    readline.question(`Give me a number from 1 to 100: `, (number) => {
+    readline.question(`Guess a number from 1 to 100: `, (number) => {
         guessedNumber = Number(number);
 
         if (0 <= guessedNumber && guessedNumber <= 100) {
